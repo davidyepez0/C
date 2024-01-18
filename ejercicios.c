@@ -1,33 +1,7 @@
 #include <stdio.h>
-#include <stdbool.h>
-#include <math.h>
 #include <conio.h>
-#include <ctype.h>
 #include <string.h>
 #include <stdlib.h>
-#define _USE_MATH_DEFINES
-#define PI 3.1416
-
-//while ((getchar()) != '\n');              Para limpiar el bufer de entrada y que permita escribir
-//string[strcspn(string, "\n")] = '\0';      Para intercambiar el salto de linea por nulo
-// void estaOrdenado(int vec[10]){
-//   int x;
-//   int ordenado=1;
-//   for(x=0;x<9;x++){
-//     if (vec[x+1]<vec[x]){
-//       ordenado=0;
-//     }
-//   }
-//   if (ordenado==1){
-//     printf("Los elementos del vector estan ordenados");
-//   }
-//   else{
-//     printf("Los elementos del vector no estan ordenados");
-//   }
-// }
-// & para obtener la direccion de memoria de una variable
-// * para acceder a lo apuntado
-// (*pe)++ para que se modifique a lo que esta apuntando pe
 
 struct nodo{
   char a;

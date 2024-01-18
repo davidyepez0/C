@@ -1,13 +1,2 @@
-# ejercicio20220912
-Ejercicio de la clase de uso de la herramienta GIT y GITHUB
+# Code in C
 
-ACTUALIZACION DE LA DOCUMENTACION EL 2022/09/12
-
-# Comandos GIT
-
--GIT INIT
--GIT ADD
--GIT COMMIT
--GIT STATUS
--GIT CLONE
--GIT 

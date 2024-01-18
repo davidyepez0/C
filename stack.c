@@ -1,3 +1,6 @@
+/*This program performs the analysis of a formula character by character to 
+determine and validate that the '( )', '[ ]', and '{ }' are correctly balanced using a stack.*/
+
 #include <stdio.h>
 #include <conio.h>
 #include <string.h>
